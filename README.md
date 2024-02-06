@@ -1,1 +1,8 @@
-# Project-1
+#War and Stocks
+## Austin Rothe and Pablo Fortich
+
+  This overview delves into the dynamics of several stocks linked to the U.S. military industrial complex. The aim of this project is to conduct a comprehensive analysis of these stocks to identify the most promising investment opportunity at present. Our approach involves analyzing profit margins and historical stock prices to gauge performance over time. We selected these companies from leading entities within the military industrial complex, drawing from multiple lists. Subsequently, we ran 25 companies through various evaluations, retaining those that held the highest closing stock prices across the various wars under investigation. This process led us to focus on 8 companies for our visualizations.
+
+  Our return ratio metric compares the current stock price (as of January 31, 2024) to the stock price at the conclusion of the Iraq War. For instance, a return ratio of 44.21 for TransDigm Group (TDG) signifies that an investment made in December 2011 would have grown to $44.21 by today. Given the overlapping nature of the wars analyzed, we first sorted them by end date. Additionally, since three conflicts remain ongoing, we further sorted them by war start date. This sorting methodology accounts for the vertical line observed in our line charts.
+
+  In our assessment, TDG emerges as the standout choice for investment. This conclusion is supported by several key factors: TDG boasts the highest profit margin, standing at 19%, the most impressive return ratio over 23 years, at 44.21, and commands the highest stock price overall, hovering around $945.
