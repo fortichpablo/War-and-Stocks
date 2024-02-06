@@ -1,4 +1,4 @@
-#War and Stocks
+# War and Stocks
 ## Austin Rothe and Pablo Fortich
 
   This overview delves into the dynamics of several stocks linked to the U.S. military industrial complex. The aim of this project is to conduct a comprehensive analysis of these stocks to identify the most promising investment opportunity at present. Our approach involves analyzing profit margins and historical stock prices to gauge performance over time. We selected these companies from leading entities within the military industrial complex, drawing from multiple lists. Subsequently, we ran 25 companies through various evaluations, retaining those that held the highest closing stock prices across the various wars under investigation. This process led us to focus on 8 companies for our visualizations.
